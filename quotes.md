@@ -1,7 +1,7 @@
 # Quotes
 Some things that people said, that I agree with (when I found them).
 
-"My success metric is **maximizing free time**. The ability to do **whatever the fuck I want**." - [Joel Hooks](https://joelhooks.com/blog/2016/04/08/setting-goals-for-my-version-of-success). 
+"My success metric is **maximizing free time**. The ability to do **whatever I want**." - [Joel Hooks](https://joelhooks.com/blog/2016/04/08/setting-goals-for-my-version-of-success). 
 
 "Do what you can, with what you’ve got, where you are." - [Squire Bill Widener](https://suebrewton.com/2014/12/31/squire-bill-widener-vs-theodore-roosevelt/)
 
@@ -18,8 +18,6 @@ Some things that people said, that I agree with (when I found them).
 "Be skeptical. But when you get proof, accept proof." – [Michael Specter](https://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
 "Not my problem" - [someecards](https://www.someecards.com/usercards/viewcard/f67dccf33389fddd2a9271a62eaf7b07/)
-
-"Couldn't give a shit" - Jen & Roy
 
 "We should avoid entering the trap in which the cost of planning exceeds the cost of making the wrong decision" - [Biggest Fish](https://biggestfish.substack.com/p/planning-is-for-doing?s=r)
 
