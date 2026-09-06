@@ -1,8 +1,7 @@
 # notes
 Learning how things work.
 
-For future reference, since my memory is as good as that of a floppy disk being waved around a neodymium magnet.  
-I hope this isn't illegal.
+For future reference.
 
 How to make notes: Do stuff first (includes reading / watching videos). Finish it and then start writing. This forces you to recall and hopefully strengthens your memory of whatever you're writing about.
 
@@ -16,6 +15,3 @@ How to make notes: Do stuff first (includes reading / watching videos). Finish i
 * [ez pz python IPC](./ez-pz-python-ipc.md)
 * [nice stuff to read / watch / listen](./reading-material.md)
 * [learnings of a software engineer](./learn-swe-senior.md)
-
-## special mention
-<https://thevaluable.dev/vim-advanced/> - a vim guide for beginners, intermediate, and advanced users.
